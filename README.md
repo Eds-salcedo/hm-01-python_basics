@@ -1,2 +1,2 @@
 # hm-01-python_basics
-Introduction to Python, focused on what variables are and how to define them
+Introduction to Python, focused on variables, data type, formatting, etc
