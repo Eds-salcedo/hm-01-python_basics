@@ -1,2 +1,2 @@
-# hm-01-python_basics
+# HolaMundo Python Basics
 Introduction to Python, focused on variables, data type, formatting, etc
