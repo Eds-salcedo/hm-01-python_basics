@@ -12,6 +12,6 @@ print(full_name)
 nombre_completo = f"{name} {last_name}"
 print(nombre_completo)
 
-# Keep in mind that, as long as the curly brackets remain inside a formatting operator like f"{}", you can manipulate its internal vales quite freely.
+# Keep in mind that, as long as the curly brackets remain inside a formatting operator like f"{}", you can manipulate its internal values quite freely.
 nombre_completo2 = f"{name[0:2]} {last_name[:3]} {3+5+6+12-9-2}"
 print(nombre_completo2)
